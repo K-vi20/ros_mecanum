@@ -81,7 +81,7 @@
 และใช้ในสมการ Mecanum Kinematics เพื่อคำนวณผลกระทบ
 ของความเร็วเชิงมุม `ω` ที่มีต่อความเร็วของล้อแต่ละล้อ
 
-
+```text
 KINEMATIC_L = LX + LY
 WHEEL_RADIUS → meter (m)
 LX           → meter (m)

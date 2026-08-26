@@ -1,45 +1,36 @@
 # 🤖 ROS Mecanum Robot
 
 <p align="center">
+
   <img src="https://inwfile.com/s-dw/m35oir.jpg"
-       width="60%"
+       width="23%"
        alt="Motor A+B Phase 12V">
-</p>
 
-<p align="center">
-  ⚙️ <b>Motor A+B</b>
-</p>
-
-<p align="center">
   <img src="https://images.thingbits.net/eyJidWNrZXQiOiJ0aGluZ2JpdHMtbmV0Iiwia2V5IjoiM3N1aTdjemF1d3lkdnN0aGV4djM2OHYwYzAwMSJ9"
-       width="60%"
+       width="23%"
        alt="Drive Motor">
-</p>
 
-<p align="center">
-  🚗 <b>Drive Motor</b>
-</p>
-
-<p align="center">
   <img src="https://www.pjrc.com/store/teensy40_card10a_rev2.png"
-       width="60%"
+       width="23%"
        alt="Teensy 4.0">
-</p>
 
-<p align="center">
-  🧠 <b>Teensy 4.0</b>
-</p>
-
-<p align="center">
   <img src="https://docs.hiwonder.com/projects/MentorPi/en/latest/_static/media/4.MotionControlLesson/4.1/media/image1.png"
-       width="60%"
+       width="23%"
        alt="Mecanum Kinematics">
+
 </p>
 
 <p align="center">
-  🧮 <b>Mecanum Kinematics</b>
-</p>
 
+  ⚙️ <b>Motor A+B</b>
+  &nbsp;&nbsp;&nbsp;
+  🚗 <b>Drive Motor</b>
+  &nbsp;&nbsp;&nbsp;
+  🧠 <b>Teensy 4.0</b>
+  &nbsp;&nbsp;&nbsp;
+  🧮 <b>Mecanum Kinematics</b>
+
+</p>
 ---
 
 ## 🚀 Features

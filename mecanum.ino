@@ -6,12 +6,11 @@
 
 #include <geometry_msgs/Twist.h>
 #include <std_msgs/Float32MultiArray.h>
-
 #include <Encoder.h>
 
 // ============================================================
 // BATLYBOT — Mecanum Controller + PID Tuning
-// Teensy 4.1 / Cytron MDD3A
+// Teensy 4.0 / Cytron MDD3A
 //
 // Subscribe:
 //   /cmd_vel      geometry_msgs/Twist
@@ -27,7 +26,7 @@
 #define COMMAND_TIMEOUT_MS  400
 
 // ---------------- Robot physical parameters -------------------
-const float WHEEL_RADIUS = 0.045f;
+const float WHEEL_RADIUS = 0.045f;  //รัศมีล้อ 
 const float LX = 0.2100f;
 const float LY = 0.1475f;
 const float KINEMATIC_L = LX + LY;

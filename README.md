@@ -1,40 +1,34 @@
 # 🤖 ROS Mecanum Robot
 
-<p align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://inwfile.com/s-dw/m35oir.jpg" width="85%" alt="Motor A+B Phase 12V">
+      <br>
+      ⚙️ <b>Motor A+B</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://images.thingbits.net/eyJidWNrZXQiOiJ0aGluZ2JpdHMtbmV0Iiwia2V5IjoiM3N1aTdjemF1d3lkdnN0aGV4djM2OHYwYzAwMSJ9" width="85%" alt="Drive Motor">
+      <br>
+      🚗 <b>Drive Motor</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <img src="https://www.pjrc.com/store/teensy40_card10a_rev2.png" width="85%" alt="Teensy 4.0">
+      <br>
+      🧠 <b>Teensy 4.0</b>
+    </td>
+    <td align="center" width="50%">
+      <br>
+      <img src="https://docs.hiwonder.com/projects/MentorPi/en/latest/_static/media/4.MotionControlLesson/4.1/media/image1.png" width="85%" alt="Mecanum Kinematics">
+      <br>
+      🧮 <b>Mecanum Kinematics</b>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://inwfile.com/s-dw/m35oir.jpg"
-       width="42%"
-       alt="Motor A+B Phase 12V">
-
-  <img src="https://images.thingbits.net/eyJidWNrZXQiOiJ0aGluZ2JpdHMtbmV0Iiwia2V5IjoiM3N1aTdjemF1d3lkdnN0aGV4djM2OHYwYzAwMSJ9"
-       width="42%"
-       alt="Drive Motor">
-
-</p>
-
-<p align="center">
-  ⚙️ <b>Motor A+B</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  🚗 <b>Drive Motor</b>
-</p>
-
-<p align="center">
-
-  <img src="https://www.pjrc.com/store/teensy40_card10a_rev2.png"
-       width="42%"
-       alt="Teensy 4.0">
-
-  <img src="https://docs.hiwonder.com/projects/MentorPi/en/latest/_static/media/4.MotionControlLesson/4.1/media/image1.png"
-       width="42%"
-       alt="Mecanum Kinematics">
-
-</p>
-
-<p align="center">
-  🧠 <b>Teensy 4.0</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  🧮 <b>Mecanum Kinematics</b>
-</p>
 ---
 
 ## 🚀 Features

@@ -110,10 +110,11 @@ Mecanum wheel inverse kinematics is used to convert:
 
 Wheel Velocity
 
-FL = (Vx - Vy - Lω) / R
-FR = (Vx + Vy + Lω) / R
-RL = (Vx + Vy - Lω) / R
-RR = (Vx - Vy + Lω) / R
+FL = (Vx - Vy - L×ω) / R
+FR = (Vx + Vy + L×ω) / R
+RL = (Vx + Vy - L×ω) / R
+RR = (Vx - Vy + L×ω) / R
+
 
 R = WHEEL_RADIUS
 L = KINEMATIC_L

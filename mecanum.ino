@@ -26,10 +26,10 @@
 #define COMMAND_TIMEOUT_MS  400
 
 // ---------------- Robot physical parameters -------------------
-const float WHEEL_RADIUS = 0.045f;  //รัศมีล้อ 
-const float LX = 0.2100f;
-const float LY = 0.1475f;
-const float KINEMATIC_L = LX + LY;
+const float WHEEL_RADIUS = 0.045f;  // รัศมีล้อ 4.5 cm
+const float LX = 0.2100f;           // ระยะจากจุดกลางถึงล้อด้านหน้า/หลัง
+const float LY = 0.1475f;           // ระยะจากจุดกลางถึงล้อด้านซ้าย/ขวา
+const float KINEMATIC_L = LX + LY;   // ระยะรวมที่ใช้คำนวณการหมุน
 
 // ---------------- Encoders (FL, FR, RL, RR) --------------------
 Encoder Enc_A(2,  3);     // FL
